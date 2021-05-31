@@ -1,0 +1,1 @@
+https://webapi.burgerking.fr/blossom/api/v11/public/kingdom/login
